@@ -1,0 +1,2 @@
+// ignorar los terminados en .zip
+*.zip

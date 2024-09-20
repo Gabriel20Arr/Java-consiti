@@ -29,14 +29,4 @@ public class Orden {
             System.out.println(this.computadoras[i]);
         }
     }
-
-    // public Orden(Computadora computadora, int contadorComputadoras, int maxComputadoras){
-    //     this();
-    //     this.computadora = computadora;
-    //     this.contadorComputadoras = contadorComputadoras;
-    //     this.maxComputadoras = maxComputadoras;
-    // }
-
-
-    
 }
